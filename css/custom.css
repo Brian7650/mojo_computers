@@ -34,19 +34,19 @@ button {
     width: 100%;
 }
 
-.cta-green {
-    background: #8758FF;
-    color: #F2F2F2;
+.cta-purple {
+    background: #f2f2f2;
+    color: #8758FF;
 }
 
-.cta-green:hover {
+.cta-purple:hover {
     color: #ffffff;
-    background: #00e69c;
+    background: #5CB8E4;
 }
 
 .cta-blue {
-    background: #192440;
-    color: #ffffff;
+    background: #f2f2f2;
+    color: #181818;
 }
 
 .cta-blue:hover {
@@ -116,14 +116,14 @@ button {
 }
 
 #contact form {
-    color: #5CB8E4;
+    color: #f2f2f2;
 }
 
 #contact form input,
 #contact form textarea {
     background: transparent;
-    border: 1px solid #5CB8E4;
-    color: #ffffff;
+    border: 1px solid #f2f2f2;
+    color: #f2f2f2;
 }
 
 /********** copyright **********/
@@ -136,7 +136,7 @@ button {
     width: 40px;
     height: 40px;
     border-radius: 99%;
-    background: #ffffff;
+    background: #f2f2f2;
     transition: .4s ease;
 }
 
@@ -147,11 +147,11 @@ button {
 }
 
 #copyright #social-media a:hover {
-    background: #00FFAD;
+    background: #5CB8E4;
 }
 
 #copyright #social-media a:hover i {
-    color: #ffffff;
+    color: #5CB8E4;
 }
 
 /********** RWD **********/
@@ -159,4 +159,16 @@ button {
     #banner h1 {
         font-size: 3.6rem;
     }
+}
+
+/* ****Title********** */
+
+.title-logo {
+    color: #F2F2F2;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+
+.robo {
+    margin-left:30px;
 }
