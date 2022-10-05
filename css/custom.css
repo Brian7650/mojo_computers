@@ -1,4 +1,5 @@
 /********** common setting **********/
+
 h2 {
     font-size: 2.8rem !important;
     font-weight: 700;
@@ -166,9 +167,14 @@ button {
 .title-logo {
     color: #F2F2F2;
     padding-left: 20px;
-    padding-top: 15px;
+    padding-top: 15px;;
 }
 
 .robo {
     margin-left:30px;
+}
+
+/* Black & Blue Section */
+.blueblacksection {
+    color:#f2f2f2;
 }
