@@ -70,6 +70,10 @@ button {
     background-size: cover;
 }
 
+.blk-blue-btn:hover {
+    color: #F2F2F2;
+    background-color: #181818;
+}
 /********** banner **********/
 #banner header {
     overflow: hidden;
@@ -183,4 +187,8 @@ button {
 .btn-coupon-white {
     color: #8758FF;
     background-color: #F2F2F2;
+}
+.blk-blue-btn {
+    color: #181818;
+    background-color: #f2f2f2;
 }
