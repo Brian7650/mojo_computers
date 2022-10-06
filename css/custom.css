@@ -52,17 +52,18 @@ button {
 
 .cta-blue:hover {
     color: #ffffff;
-    background: #121a2e;
+    background: #5CB8E4;
 }
 
 .cta-ghost {
-    border: 2px solid #192440 !important;
-    color: #192440;
+    border: 2px solid #181818 !important;
+    color: #181818;
 }
 
 .cta-ghost:hover {
     color: #ffffff;
     background: #8758FF;
+    border: 2px solid #8758FF !important;
 }
 
 #banner {
@@ -177,4 +178,9 @@ button {
 /* Black & Blue Section */
 .blueblacksection {
     color:#f2f2f2;
+}
+
+.btn-coupon-white {
+    color: #8758FF;
+    background-color: #F2F2F2;
 }
